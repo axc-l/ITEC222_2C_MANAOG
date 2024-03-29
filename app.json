@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "googleloginmanaog",
+    "slug": "googleloginmanaog",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.manhwaaddict.googleloginmanaog"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.manhwaaddict.googleloginmanaog"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6540636e-bc23-4f73-9ea4-d695c06ba33d"
+      }
+    },
+    "owner": "manhwaaddict"
+  }
+}
